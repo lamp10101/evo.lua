@@ -3,7 +3,7 @@ version = "0.75-3"
 
 source = {
    url = "https://github.com/lamp10101/evo.lua/releases/download/v0.75-2/evo.lua-main.3.zip",
-   archive = "zip"
+   
 }
 
 description = {
