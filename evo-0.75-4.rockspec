@@ -1,9 +1,8 @@
 package = "evo"
-version = "0.75-3"
+version = "0.75-4"
 
 source = {
-   url = "https://codeload.github.com/lamp10101/evo.lua/zip/refs/heads/main",
-   
+   url = "https://github.com/username/repository/archive/refs/heads/main.zip",
 }
 
 description = {
