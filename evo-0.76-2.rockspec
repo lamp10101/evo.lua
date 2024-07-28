@@ -5,9 +5,12 @@ source = {
     dir = "."
 }
 description = {
-    summary = "A brief summary of what evo does.",
+    summary = "A versatile library for Lua.",
     detailed = [[
-        A detailed description of evo and its functionalities.
+        The evo library provides a set of tools and utilities designed to facilitate
+        the development of Lua applications. It includes functions for string manipulation,
+        table operations, mathematical computations, and more. evo is aimed at developers
+        looking for a comprehensive and easy-to-use library to enhance their Lua projects.
     ]],
     homepage = "https://evolir.neocities.org/evo/",
     license = "MIT"
