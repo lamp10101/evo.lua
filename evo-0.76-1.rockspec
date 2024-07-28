@@ -1,8 +1,8 @@
 package = "evo"
 version = "0.76-1"
 source = {
-    url = "https://codeload.github.com/lamp10101/evo.lua/zip/refs/heads/main",
-    dir = "evo"
+    url = "https://github.com/lamp10101/evo.lua/archive/refs/heads/main.zip",
+    dir = "evo.lua-main"
 }
 description = {
     summary = "A brief summary of what evo does.",
@@ -18,6 +18,7 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        evo = "src/evo.lua"
+        evo = "evo.lua"
     }
 }
+
