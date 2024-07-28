@@ -1,5 +1,4 @@
-
- package = "evo"
+package = "evo"
 version = "0.76-2"
 source = {
     url = "https://github.com/lamp10101/evo.lua/releases/download/v0.75-2/evo.zip",
@@ -22,4 +21,3 @@ build = {
         evo = "evo.lua"
     }
 }
-
